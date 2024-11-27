@@ -1,7 +1,5 @@
 ---
 title: Bitwise Operation
-nav_order: 3
-parent: home
 ---
 
 ## Bitwise 方式
