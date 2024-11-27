@@ -9,8 +9,16 @@ aux_links:
 
 just_the_docs:
   aux_nav:
-    C Programming:
-      - url: /C Programming/Bitwise Operation
-        title: Bitwise Operation
-      - url: /C Programming/Recursion
-        title: Recursion
+    Monkey Brain:
+      - title: C Programming
+        url: /C Programming/
+        children:
+          - title: Bitwise Operation
+            url: /C Programming/Bitwise Operation/
+          - title: Recursion
+            url: /C Programming/Recursion/
+      - title: Linux command
+        url: /Linux command/
+        children:
+          - title: awk
+            url: /Linux command/awk/
