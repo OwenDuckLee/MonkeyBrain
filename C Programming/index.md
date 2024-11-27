@@ -2,6 +2,6 @@
 title: C Programming
 nav_order: 2
 has_children: true
-parent: Monkey Brain
+parent: Home
 ---
 # C Programming
