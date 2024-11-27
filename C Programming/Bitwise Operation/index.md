@@ -1,5 +1,7 @@
 ---
 title: Bitwise Operation
+nav_order: 2
+parent: C Programming
 ---
 
 ## Bitwise 方式
