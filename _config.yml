@@ -1,8 +1,16 @@
 title: Monkey Brain
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A Brain for evolution!
 theme: just-the-docs
 
 url: https://owenducklee.github.io/MonkeyBrain/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Monkey Brain Repository: https://github.com/OwenDuckLee/MonkeyBrain/tree/main
+
+just_the_docs:
+  aux_nav:
+    C Programming:
+      - url: /C Programming/Bitwise Operation
+        title: Bitwise Operation
+      - url: /C Programming/Recursion
+        title: Recursion
