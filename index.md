@@ -7,7 +7,7 @@ layout: home
 ## In this brain you can search for the knowledge of evolution
 
 ## C Programming
-- [Bitwise oeperation](C Programming/Bitwise-operation/)
+- [Bitwise Oeperation](C Programming/Bitwise Operation/)
 - [Recursion](C Programming/Recursion/)
 
 ## Linux command
