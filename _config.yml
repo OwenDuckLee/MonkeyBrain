@@ -6,19 +6,3 @@ url: https://owenducklee.github.io/MonkeyBrain/
 
 aux_links:
   Monkey Brain Repository: https://github.com/OwenDuckLee/MonkeyBrain/tree/main
-
-just_the_docs:
-  aux_nav:
-    Monkey Brain:
-      - title: C Programming
-        url: /C Programming/
-        children:
-          - title: Bitwise Operation
-            url: /C Programming/Bitwise Operation/
-          - title: Recursion
-            url: /C Programming/Recursion/
-      - title: Linux command
-        url: /Linux command/
-        children:
-          - title: awk
-            url: /Linux command/awk/
