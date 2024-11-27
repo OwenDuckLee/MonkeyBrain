@@ -1,6 +1,6 @@
 ---
 title: Recursion
-nav_order: 2  
+nav_order: 3
 parent: C Programming 
 ---
 # Recursion Note
