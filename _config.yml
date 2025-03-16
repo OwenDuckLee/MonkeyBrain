@@ -6,3 +6,169 @@ url: https://owenducklee.github.io/MonkeyBrain/
 
 aux_links:
   Monkey Brain Repository: https://github.com/OwenDuckLee/MonkeyBrain/tree/main
+
+# 導覽設定
+nav_order: 1
+search_enabled: true
+
+# 頁面結構設定
+just_the_docs:
+  collections:
+    main:
+      name: "Monkey Brain"
+      items:
+        - title: "C Programming"
+          items:
+            - title: "Bitwise operation"
+              url: "/C-Programming/Bitwise-operation"
+            - title: "Recursion"
+              url: "/C-Programming/Recursion"
+            - title: "Linked-list for static memory"
+              url: "/C-Programming/linked-list-for-static-memory"
+
+        - title: "Interview Skill"
+          items:
+            - title: "LeetCode Instruction"
+              url: "/Interview-Skill/LeetCode-Instruction"
+            - title: "LeetCode question"
+              url: "/Interview-Skill/LeetCode-question"
+
+        - title: "Algorithm"
+          items:
+            - title: "Selection sort"
+              url: "/Algorithm/Selection-sort"
+            - title: "Divide-and-Conquer"
+              url: "/Algorithm/Divide-and-Conquer"
+            - title: "Hash Table"
+              url: "/Algorithm/Hash-Table"
+            - title: "Dijkstra Algorithm"
+              url: "/Algorithm/Dijkstra-Algorithm"
+            - title: "Greedy Algorithm"
+              url: "/Algorithm/Greedy-Algorithm"
+            - title: "Dynamic Programming Algorithm"
+              url: "/Algorithm/Dynamic-Programming-Algorithm"
+            - title: "Longest Common Substring"
+              url: "/Algorithm/Longest-Common-Substring"
+            - title: "K-Nearest Neighbors Algorithm"
+              url: "/Algorithm/K-Nearest-Neighbors-Algorithm"
+            - title: "Tree"
+              url: "/Algorithm/Tree"
+            - title: "Merge Sort"
+              url: "/Algorithm/Merge-Sort"
+            - title: "Heap Sort"
+              url: "/Algorithm/Heap-Sort"
+            - title: "Bubble Sort"
+              url: "/Algorithm/Bubble-Sort"
+            - title: "Quick Sort"
+              url: "/Algorithm/Quick-Sort"
+            - title: "Insertion Sort"
+              url: "/Algorithm/Insertion-Sort"
+            - title: "Counting Sort"
+              url: "/Algorithm/Counting-Sort"
+            - title: "Radix Sort"
+              url: "/Algorithm/Radix-Sort"
+            - title: "MapReduce"
+              url: "/Algorithm/MapReduce"
+            - title: "Kadanes algorithms"
+              url: "/Algorithm/Kadanes-algorithms"
+
+        - title: "Linux"
+          items:
+            - title: "Kernel"
+              items:
+                - title: "Linux Kernel Info Doc"
+                  url: "/Linux/Kernel/Linux-Kernel-Info-Doc"
+            - title: "I2C SMBus interface"
+              items:
+                - title: "I2C interface - master program"
+                  url: "/Linux/I2C-SMBus-interface/I2C-interface-master-program"
+                - title: "Linux Userspace I2C/SMBus Master Program - Transmit Huge File"
+                  url: "/Linux/I2C-SMBus-interface/Linux-Userspace-I2C-SMBus-Master-Program-Transmit-Huge-File"
+                - title: "Linux Userspace I2C/SMBus Master Program - WriteReadCompare"
+                  url: "/Linux/I2C-SMBus-interface/Linux-Userspace-I2C-SMBus-Master-Program-WriteReadCompare"
+            - title: "GPIO interface"
+              url: "/Linux/GPIO-interface"
+            - title: "UART interface"
+              url: "/Linux/UART-interface"
+            - title: "USB interface"
+              url: "/Linux/USB-interface"
+
+        - title: "Linux device driver"
+          items:
+            - title: "Linux Device Driver - Note"
+              url: "/Linux/device-driver/Linux-Device-Driver-Note"
+            - title: "I2C"
+              url: "/Linux/device-driver/I2C"
+            - title: "EC IT8568 i2c device driver for x86"
+              url: "/Linux/device-driver/EC-IT8568-i2c-device-driver-for-x86"
+            - title: "GPIO"
+              url: "/Linux/device-driver/GPIO"
+            - title: "UART"
+              url: "/Linux/device-driver/UART"
+            - title: "USB"
+              url: "/Linux/device-driver/USB"
+            - title: "PCIe"
+              url: "/Linux/device-driver/PCIe"
+            - title: "eMMC(MTD)"
+              url: "/Linux/device-driver/eMMC"
+
+        - title: "Zephyr"
+          items:
+            - title: "Zephyr Guide"
+              url: "/Zephyr/Zephyr-Guide"
+            - title: "Supporting Open Source HW"
+              items:
+                - title: "esp32"
+                  items:
+                    - title: "Zephyr ESP32 - First Steps"
+                      url: "/Zephyr/esp32/Zephyr-ESP32-First-Steps"
+                    - title: "Zephyr ESP32 - GPIO control"
+                      url: "/Zephyr/esp32/Zephyr-ESP32-GPIO-control"
+                - title: "stm32"
+                  items:
+                    - title: "Porting custom STM32 devkit"
+                      url: "/Zephyr/stm32/Porting-custom-STM32-devkit"
+
+        - title: "MCU"
+          items:
+            - title: "Raspi Pico"
+              items:
+                - title: "How to program Raspi pico"
+                  url: "/MCU/Raspi-Pico/How-to-program-Raspi-pico"
+                - title: "Raspi pico I2C Slave program"
+                  url: "/MCU/Raspi-Pico/Raspi-pico-I2C-Slave-program"
+            - title: "STM32"
+              items:
+                - title: "STM32 dev board info"
+                  url: "/MCU/STM32/STM32-dev-board-info"
+                - title: "How to program in STM32"
+                  url: "/MCU/STM32/How-to-program-in-STM32"
+                - title: "STM32 I2C SMBus Slave Device(Simulate ROM) + GPIO control program"
+                  url: "/MCU/STM32/STM32-I2C-SMBus-Slave-Device-GPIO-control-program"
+                - title: "STM32 RTOS - FreeRTOS Intro & Learn"
+                  url: "/MCU/STM32/STM32-RTOS-FreeRTOS-Intro-Learn"
+            - title: "ESP32"
+              items:
+                - title: "ESP32 - NodeMCU32 dev board"
+                  url: "/MCU/ESP32/ESP32-NodeMCU32-dev-board"
+                - title: "ESP32 IDF setup"
+                  url: "/MCU/ESP32/ESP32-IDF-setup"
+                - title: "ESP32 - How to setup ESP-IDF in linux"
+                  url: "/MCU/ESP32/ESP32-How-to-setup-ESP-IDF-in-linux"
+                - title: "ESP32+OV2640 How to rescue camera"
+                  url: "/MCU/ESP32/ESP32-OV2640-How-to-rescue-camera"
+                - title: "ESP32 - SecurityBot"
+                  url: "/MCU/ESP32/ESP32-SecurityBot"
+            - title: "Arduino"
+              items:
+                - title: "I2C Slave program"
+                  url: "/MCU/Arduino/I2C-Slave-program"
+
+        - title: "SoC"
+          items:
+            - title: "Raspi"
+              items:
+                - title: "Raspi 5 Boot issue"
+                  url: "/SoC/Raspi/Raspi-5-Boot-issue"
+                - title: "Linux device driver - Raspi I2C"
+                  url: "/SoC/Raspi/Linux-device-driver-Raspi-I2C"
